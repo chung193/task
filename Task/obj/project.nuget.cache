@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xd71ajlF0mmfoPNXspQLGmHlkzKYyMgF5JOPuo7BTKj8g5GdbWag6HY0bynL84msl+cAsoQkbP2PJyxDN7I+Lg==",
+  "success": true,
+  "projectFilePath": "D:\\code\\Task\\Task\\Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maguire.vu\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
