@@ -1,63 +1,56 @@
 import React from 'react';
-import {
-    Chart, Series, CommonSeriesSettings, Label, Format, Legend, Export,
-  } from 'devextreme-react/chart';
-import { grossProductData } from './data.js';
 import axios from 'axios';
+
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Data from '../components/chart/Data';
+import Pie from '../components/chart/Pie';
 
 class Home extends React.Component {
     state = {
-        data: []
+        data: [],
+        pie: []
+    }
+
+    loadData() {
+        axios.get('https://localhost:7147/api/api/getdata/slide11')
+            .then(res => {
+                const data = res.data;
+                this.setState({ data });
+            })
+            .catch(error => console.log(error));
+    }
+
+    loadPie() {
+        axios.get('https://localhost:7147/api/api/getdata/slide12')
+            .then(res => {
+                const pie = res.data;
+                this.setState({ pie });
+            })
+            .catch(error => console.log(error));
     }
 
     componentDidMount() {
-        axios.get('https://localhost:7147/api/api/getdata/slide11')
-          .then(res => {
-            console.log(res);
-            const data = res;
-            this.setState({ data });
-            
-          })
-          .catch(error => console.log(error));
+        this.loadData();
+        this.loadPie();
     }
 
-    render(){
+    render() {
         return (
-            <Chart id="chart"
-            title="Task"
-            dataSource={this.state.data}
-            onPointClick={this.onPointClick}
-          >
-            <CommonSeriesSettings
-              argumentField="Workline"
-              type="bar"
-              hoverMode="allArgumentPoints"
-              selectionMode="allArgumentPoints"
-            >
-              <Label visible={true}>
-                <Format type="fixedPoint" precision={0} />
-              </Label>
-            </CommonSeriesSettings>
-            <Series
-              argumentField="Workline"
-              valueField="TargetQty"
-              name="Target Qty"
-            />
-            <Series
-              valueField="OutputQty"
-              name="Output Qty"
-            />
-            <Series
-              valueField="QcOutputQty"
-              name="Qc Output Qty"
-            />
-            <Legend verticalAlignment="bottom" horizontalAlignment="center"></Legend>
-            <Export enabled={true} />
-          </Chart>
+
+            <Container>
+                <Row>
+                    <Col sm={12} md={8}>
+                        <Data data={this.state.data}/>
+                    </Col>
+                    <Col sm={12} md={4}>
+                        <Pie data={this.state.pie}/>
+                    </Col>
+                </Row>
+            </Container>
+
         );
-      }
-      onPointClick(e) {
-        e.target.select();
-      }
+    }
 }
 export default Home;

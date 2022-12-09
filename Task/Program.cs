@@ -5,6 +5,18 @@ builder.Services.AddControllersWithViews();
 
 //builder.Services.AddControllers();
 
+/* var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+
+ builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: MyAllowSpecificOrigins,
+                      policy =>
+                      {
+                          policy.WithOrigins("*").AllowAnyHeader();
+
+                      });
+});*/
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -15,13 +27,15 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
 
 app.UseAuthorization();
-app.UseCors();
+
+app.UseCors(options => options.AllowAnyOrigin());
 
 app.MapControllerRoute(
     name: "default",

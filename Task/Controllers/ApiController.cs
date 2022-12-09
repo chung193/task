@@ -12,8 +12,8 @@ namespace Task.Controllers
             return View();
         }
 
-        [EnableCors]
-        [HttpGet]
+        /* [EnableCors("MyAllowSpecificOrigins")]
+        [HttpGet] */
         public string getData(string target)
         {
             string result;
