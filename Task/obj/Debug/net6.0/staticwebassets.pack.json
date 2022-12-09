@@ -1,247 +1,403 @@
 {
   "Files": [
     {
-      "Id": "D:\\code\\Task\\Task\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Task.bundle.scp.css",
+      "Id": "D:\\code\\task\\Task\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Task.bundle.scp.css",
       "PackagePath": "staticwebassets\\Task.bundle.scp.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\css\\site.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\.gitignore",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\.gitignore"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\README.md",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\README.md"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\asset-manifest.json"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\favicon.ico",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\favicon.ico"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\index.html",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\index.html"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\logo192.png",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\logo192.png"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\logo512.png",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\logo512.png"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\manifest.json",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\manifest.json"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\robots.txt",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\robots.txt"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\static\\css\\main.073c9b0a.css",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\static\\css\\main.073c9b0a.css"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\static\\css\\main.073c9b0a.css.map",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\static\\css\\main.073c9b0a.css.map"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\static\\js\\787.b6fd2ddb.chunk.js",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\static\\js\\787.b6fd2ddb.chunk.js"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\static\\js\\787.b6fd2ddb.chunk.js.map",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\static\\js\\787.b6fd2ddb.chunk.js.map"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\static\\js\\main.1c420ff8.js",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\static\\js\\main.1c420ff8.js"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\static\\js\\main.1c420ff8.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\static\\js\\main.1c420ff8.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\static\\js\\main.1c420ff8.js.map",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\static\\js\\main.1c420ff8.js.map"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\build\\static\\media\\logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\build\\static\\media\\logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\nuget.config",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\nuget.config"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\obj\\Debug\\clientapp.esproj.CoreCompileInputs.cache",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\obj\\Debug\\clientapp.esproj.CoreCompileInputs.cache"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\obj\\Debug\\clientapp.esproj.FileListAbsolute.txt",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\obj\\Debug\\clientapp.esproj.FileListAbsolute.txt"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\obj\\Debug\\clientapp.esproj.SuggestedBindingRedirects.cache",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\obj\\Debug\\clientapp.esproj.SuggestedBindingRedirects.cache"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\package-lock.json",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\package-lock.json"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\package.json",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\package.json"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\public\\favicon.ico",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\public\\favicon.ico"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\public\\index.html",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\public\\index.html"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\public\\logo192.png",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\public\\logo192.png"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\public\\logo512.png",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\public\\logo512.png"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\public\\manifest.json",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\public\\manifest.json"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\public\\robots.txt",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\public\\robots.txt"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\App.css",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\App.css"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\App.js",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\App.js"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\App.test.js",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\App.test.js"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\index.css",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\index.css"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\index.js",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\index.js"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\logo.svg",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\logo.svg"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\reportWebVitals.js",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\reportWebVitals.js"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\screens\\Home.js",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\screens\\Home.js"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\screens\\data.js",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\screens\\data.js"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\setupTests.js",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\setupTests.js"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\favicon.ico",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\js\\site.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\code\\Task\\Task\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\code\\task\\Task\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

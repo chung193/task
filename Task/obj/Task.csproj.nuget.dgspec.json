@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\Task\\Task\\Task.csproj": {}
+    "D:\\code\\task\\Task\\Task.csproj": {}
   },
   "projects": {
-    "D:\\code\\Task\\Task\\Task.csproj": {
+    "D:\\code\\task\\Task\\Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\Task\\Task\\Task.csproj",
+        "projectUniqueName": "D:\\code\\task\\Task\\Task.csproj",
         "projectName": "Task",
-        "projectPath": "D:\\code\\Task\\Task\\Task.csproj",
+        "projectPath": "D:\\code\\task\\Task\\Task.csproj",
         "packagesPath": "C:\\Users\\maguire.vu\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\Task\\Task\\obj\\",
+        "outputPath": "D:\\code\\task\\Task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maguire.vu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,21 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "JavaScriptEngineSwitcher.ChakraCore": {
+              "target": "Package",
+              "version": "[3.20.6, )"
+            },
+            "JavaScriptEngineSwitcher.V8": {
+              "target": "Package",
+              "version": "[3.20.7, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.2, )"
+            },
+            "React.AspNet": {
+              "target": "Package",
+              "version": "[5.2.12, )"
             }
           },
           "imports": [

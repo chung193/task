@@ -1,0 +1,2 @@
+D:\code\Task\Task\wwwroot\clientApp\clientApp\obj\Debug\clientapp.esproj.SuggestedBindingRedirects.cache
+D:\code\Task\Task\wwwroot\clientApp\clientApp\obj\Debug\clientapp.esproj.CoreCompileInputs.cache
