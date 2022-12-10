@@ -32,6 +32,9 @@ namespace Task.Controllers
                 case "slide14":
                     result = XuLyDuLieu.loadJson(DataUrl.slide14);
                     break;
+                case "slide15":
+                    result = XuLyDuLieu.loadJson(DataUrl.slide15);
+                    break;
                 case "slide21":
                     result = XuLyDuLieu.loadJson(DataUrl.slide21);
                     break;

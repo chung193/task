@@ -133,6 +133,18 @@
       "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\App.test.js"
     },
     {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\components\\chart\\Data.js",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\components\\chart\\Data.js"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\components\\chart\\Grid.js",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\components\\chart\\Grid.js"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\components\\chart\\Pie.js",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\components\\chart\\Pie.js"
+    },
+    {
       "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\index.css",
       "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\index.css"
     },
@@ -151,10 +163,6 @@
     {
       "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\screens\\Home.js",
       "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\screens\\Home.js"
-    },
-    {
-      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\screens\\data.js",
-      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\screens\\data.js"
     },
     {
       "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\setupTests.js",

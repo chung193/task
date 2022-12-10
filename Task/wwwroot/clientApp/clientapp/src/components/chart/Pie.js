@@ -10,7 +10,7 @@ import axios from 'axios';
 
 class Pie extends React.Component {
     render() {
-        var data = this.handleData(this.props.data);
+        var data = this.props.data;
         return (
             <PieChart
                 id="pie"
@@ -24,7 +24,7 @@ class Pie extends React.Component {
                     argumentField="Param"
                     valueField="Value"
                 >
-                    <Label visible={true}>
+                    <Label visible={true} customizeText={this.customizeText}>
                         <Connector visible={true} width={1} />
                     </Label>
                 </Series>
@@ -35,17 +35,9 @@ class Pie extends React.Component {
         );
     }
 
-    handleData(data){
-        var sum = 0;
-        data.forEach(function (item) {
-            sum+= item.Value ;
-        });
-        console.log(sum);
-        data.forEach(function (item) {
-            item.Value = Math.floor((item.Value/sum)*100);
-            item.Value = item.Value.toString()+'%';
-        });
-        return data;
+
+    customizeText({ argument, value }) {
+        return `${argument}: ${value} %`;
     }
 
     pointClickHandler(e) {
