@@ -6,7 +6,6 @@ import PieChart, {
     Export,
 } from 'devextreme-react/pie-chart';
 import React from 'react';
-import axios from 'axios';
 
 class Pie extends React.Component {
     render() {

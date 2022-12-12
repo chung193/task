@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gI9tMiBgdv9ku+3/70jSmxyLtF4ELubyR+f6RL72bcs=",
+  "Hash": "EvfzdgAOjthptrihhYTZVrp5rdUm01owLK5N+MOjzeM=",
   "Source": "Task",
   "BasePath": "_content/Task",
   "Mode": "Default",
@@ -714,12 +714,12 @@
       "OriginalItemSpec": "wwwroot\\clientApp\\clientapp\\src\\reportWebVitals.js"
     },
     {
-      "Identity": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\screens\\Home.js",
+      "Identity": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\screens\\Slide1.js",
       "SourceId": "Task",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\code\\task\\Task\\wwwroot\\",
       "BasePath": "_content/Task",
-      "RelativePath": "clientApp/clientapp/src/screens/Home.js",
+      "RelativePath": "clientApp/clientapp/src/screens/Slide1.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -728,7 +728,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\clientApp\\clientapp\\src\\screens\\Home.js"
+      "OriginalItemSpec": "wwwroot\\clientApp\\clientapp\\src\\screens\\Slide1.js"
+    },
+    {
+      "Identity": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\screens\\Slide2.js",
+      "SourceId": "Task",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\code\\task\\Task\\wwwroot\\",
+      "BasePath": "_content/Task",
+      "RelativePath": "clientApp/clientapp/src/screens/Slide2.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\clientApp\\clientapp\\src\\screens\\Slide2.js"
     },
     {
       "Identity": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\setupTests.js",

@@ -6,9 +6,15 @@ import axios from 'axios';
 class Data extends React.Component {
     render() {
         var data = this.props.data;
+        // console.log(data);
+        var column = [];
+        data.forEach(element => {
+            column.push(element.Workline);
+        });
         return (
             <Chart id="chart"
                 title="Task"
+                defaultColumns={column}
                 dataSource={data}
                 onPointClick={this.onPointClick}
             >

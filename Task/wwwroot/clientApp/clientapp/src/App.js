@@ -7,8 +7,9 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import Home from '../src/screens/Home';
-
+import Slide1 from './screens/Slide1';
+import Slide2 from './screens/Slide2';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends React.Component {
   render(){
@@ -18,13 +19,10 @@ class App extends React.Component {
         <nav>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/">Slide1</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
-            </li>
-            <li>
-              <Link to="/users">Users</Link>
+              <Link to="/slide2">Slide2</Link>
             </li>
           </ul>
         </nav>
@@ -32,9 +30,9 @@ class App extends React.Component {
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
         <Routes>
-          <Route path="/about" element={<About/>} />
-          <Route path="/users" element={<Users/>} />
-          <Route path="/" element={<Home/>} />
+          <Route path="/slide1" element={<Slide1/>} />
+          <Route path="/slide2" element={<Slide2/>} />
+          <Route path="/" element={<Slide1/>} />
         </Routes>
       </div>
     </Router>
@@ -43,13 +41,5 @@ class App extends React.Component {
 }
 
 
-
-function About() {
-  return <h2>About</h2>;
-}
-
-function Users() {
-  return <h2>Users</h2>;
-}
 
 export default App;

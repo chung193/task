@@ -161,8 +161,12 @@
       "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\reportWebVitals.js"
     },
     {
-      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\screens\\Home.js",
-      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\screens\\Home.js"
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\screens\\Slide1.js",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\screens\\Slide1.js"
+    },
+    {
+      "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\screens\\Slide2.js",
+      "PackagePath": "staticwebassets\\clientApp\\clientapp\\src\\screens\\Slide2.js"
     },
     {
       "Id": "D:\\code\\task\\Task\\wwwroot\\clientApp\\clientapp\\src\\setupTests.js",
